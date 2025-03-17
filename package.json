@@ -1,0 +1,16 @@
+{
+  "name": "elysia-rate-limit",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/swagger": "^1.2.2",
+    "elysia": "^1.2.25",
+    "elysia-rate-limit": "^4.2.1"
+  }
+}
